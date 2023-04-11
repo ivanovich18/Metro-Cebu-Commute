@@ -10,7 +10,8 @@
 - Database: SQLite3
 - API: Google Maps API
 ### Preview:
-![Main Page (Origin and Destination)](https://user-images.githubusercontent.com/88656474/230846841-2b3dd2b6-0a39-4c0e-a585-ea9c0868ff2b.png)
+![Main Page (Origin and Destination)](https://user-images.githubusercontent.com/88656474/231073772-8648d132-71a7-421c-a49b-10fbb891e3d2.png)
+
 
 ### Wireframe: https://www.figma.com/file/d9fHLJrs8GC6ozVMqXTM9F/CS50x-Final-Project-Web-Application-UI?node-id=0%3A1&t=ERdjE4njZ9dk7Jb6-1
 ### Project Details (Notion): https://ivansuralta.notion.site/CS50x-Final-Project-2eace42faadc4382af4bc606c67931b5
