@@ -2,7 +2,7 @@
 ## A Flask web application that shows the list of possible bus/jeep number codes with the user's origin and destination location using Google Maps API.
 ### Note: This is currently under development and is for the final project for Harvard's CS50x 2023.
 ### Project Details:
-- Main goal is to put a user’s location and destination and show possible public transportation options and directions using Google Maps API
+- Main goal is to put a user's location and destination and show possible public transportation options and directions using Google Maps API
 - Also, show a table of jeepney/minibus codes and its routes
 ### Tech stack
 - Frontend: HTML, CSS, Bootstrap, JavaScript
